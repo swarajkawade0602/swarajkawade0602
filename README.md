@@ -64,11 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=swarajkawade0602\&show_icons=true)
-
----
 
 ## 📫 Connect With Me
 
