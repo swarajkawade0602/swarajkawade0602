@@ -1,6 +1,6 @@
-# Hi 👋, I'm Swaraj
+# Hi , I'm Swaraj
 
-🚀 Aspiring DevOps Engineer | AWS | Linux Enthusiast
+Aspiring DevOps Engineer | AWS | Linux Enthusiast
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### ☁️ Cloud (AWS)
 
-* EC2, S3, RDS, VPC, IAM
+* EC2, S3, RDS, VPC, IAM, Lambda
 
 ### 🐧 Systems & Tools
 
