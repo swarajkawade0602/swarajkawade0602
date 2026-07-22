@@ -14,8 +14,6 @@
 
 ### 👨‍💻 About Me
 
-- 🛠️ 2+ years of experience as a **Software Engineer** (Java / Spring Boot) at **Nexaris Software Pvt. Ltd.**, contributing to backend microservices
-- ☁️ Currently **transitioning into Cloud & DevOps Engineering**
 - 📜 Pursuing the **AWS Certified Solutions Architect – Associate (SAA-C03)**
 - 🚀 Learning by building — real, deployed AWS infrastructure projects (not just tutorials)
 - 🎓 Strong CS fundamentals — B.E. with **9.73 CGPA** (SPPU)
