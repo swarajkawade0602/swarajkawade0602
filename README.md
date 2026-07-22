@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Swaraj 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Associate Cloud+Engineer+%7C+DevOpsPursuing+AWS+Solutions+Architect+(SAA-C03);Building+hands-on+AWS+%2B+DevOps+projects" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swaraj-kawade-54b513211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
